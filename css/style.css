@@ -1,4 +1,17 @@
 .before{
+  background-color: red;
+  width: 30%;
+  float: left;
+}
+
+.during{
+  background-color: yellow;
+  width: 30%;
+  float: left;
+}
+
+.after{
+  background-color: green;
   width: 30%;
   float: left;
 }
